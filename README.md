@@ -1,3 +1,6 @@
+# (OUT OF DATE WARNING)
+DictOfYourOwn currently relies on pre-cstyle (see dotfiles/cstyle.txt) usflib2.
+If you for some reason find this project cool or need something similar, feel free to rewrite it on your own, or contact me (lzg).
 
 # DictOfYourOwn
 Organizational program for managing conlang vocabulary.
